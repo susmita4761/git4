@@ -1,6 +1,7 @@
 # git4
 Task 4 -Virtual Internship
 #combining two dictionary adding values:
+PYTHON CODE:
 
 dict1={'a':100,'b':200,'c':300}
 dict2={'a':200,'d':200,'c':100}
